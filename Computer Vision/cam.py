@@ -9,6 +9,7 @@ while True:
     
     
     
+    
 cap.release()
 
 cv2.waitKey(0)
